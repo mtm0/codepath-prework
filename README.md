@@ -1,25 +1,26 @@
-# Prework - *Name of App Here*
+# Prework - *Color Change Button*
 
-Submitted by: **Your Name Here**
+Submitted by: **Mohamed Mouhoud**
 
-**Name of your app** is an app that... [TODO] 
+**Color Change Button** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div style="position: relative; padding-bottom: 213.88888888888889%; height: 0;"><iframe src="https://www.loom.com/embed/3c602b354dca4d7cb2392e9263c53e6f?sid=b3896fa5-f04d-42f4-9352-faa8a65c9dea" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ## App Brainstorming (Step 4)
+Snapchat: Disappearing messages, Disappearing Photo/Video and Content
+Youtube: Long & short form content as well as Social Media posts within the app
+Instagram: Block Feature, Story Mute Feature, and Reliable Video calls
 
 ## Notes
 
