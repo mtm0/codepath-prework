@@ -15,7 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 213.88888888888889%; height: 0;"><iframe src="https://www.loom.com/embed/3c602b354dca4d7cb2392e9263c53e6f?sid=b3896fa5-f04d-42f4-9352-faa8a65c9dea" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/3c602b354dca4d7cb2392e9263c53e6f">
+      <p>Videos | Library | Loom - 3 May 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3c602b354dca4d7cb2392e9263c53e6f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3c602b354dca4d7cb2392e9263c53e6f-9810a9c95ac52ae2-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 Snapchat: Disappearing messages, Disappearing Photo/Video and Content
